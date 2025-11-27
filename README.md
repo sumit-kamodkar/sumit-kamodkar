@@ -4,7 +4,7 @@
 
 <img src="https://www.sherpadesk.com/hubfs/Blog%20Images/IT%20Helpdesks%20The%20Key%20to%20Digital%20Transformation%20Success/Featured_Digital.gif" width="100%" />
 
-<h1>Hi 👋, I'm Sumi Kamodkar</h1>
+<h1>Hi 👋, I'm Sumit Kamodkar</h1>
 <h3>Aspiring Full-Stack Developer from India 🇮🇳</h3>
 
 <br>
