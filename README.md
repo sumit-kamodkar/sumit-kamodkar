@@ -33,8 +33,6 @@
 ### 🧑‍💼 **Employee Dashboard**  
 🔗 https://employee-dashboard-blue.vercel.app/
 
-### ☕ **Coffee Website**  
-🔗 *Add link after upload*
 
 <br>
 
