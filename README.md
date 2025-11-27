@@ -38,10 +38,10 @@
 
 # 🌐 Socials
 
-<a href="https://instagram.com/">
+<a href="https://www.instagram.com/sumit_kamodkar/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://linkedin.com/">
+<a href="https://www.linkedin.com/in/sumit-kamodkar-53ba80274/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://x.com/">
